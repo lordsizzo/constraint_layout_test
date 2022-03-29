@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">constraint_layout_test</string>
+    <string name="upload_button">Upload</string>
+    <string name="btn_discard">Discard</string>
+    <string name="tv_camera">Camera</string>
+    <string name="et_name">Name</string>
+    <string name="tv_sigapure">Singapure</string>
+    <string name="tv_setting">Setting</string>
+</resources>
